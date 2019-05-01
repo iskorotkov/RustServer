@@ -1,0 +1,7 @@
+[package]
+name = "rust-server"
+version = "0.1.0"
+authors = ["Ivan Korotkov <korotkov.ivan.s@gmail.com>"]
+edition = "2018"
+
+[dependencies]
